@@ -3,7 +3,7 @@ Ethereum wallet drain auto transfer script.
 
 Developer: https://t.me/pysmart
 
-![err](https://github.com/user-attachments/assets/5546aa28-7fb8-4c38-9cbe-2db4ff35c3b4)
+![er1](https://github.com/user-attachments/assets/c663bd0f-58c8-437f-86dd-710a17a3dd9e)
 
 
 ETHEREUM WALLET CRYPTO DRAINER 
@@ -23,3 +23,6 @@ https://youtu.be/cQs7jgyT2EE?si=mf01OBUIg9RmOzV5
 
 DISCLAIMER: 
 This is just for educational purpose and I am not responsible for any unlawful act of the usage.
+
+![er2](https://github.com/user-attachments/assets/9870e4ff-f19c-45bc-b36b-f948927fb7a1)
+
