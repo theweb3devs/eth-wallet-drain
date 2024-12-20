@@ -1,7 +1,7 @@
 # eth-wallet-drain
 Ethereum wallet drain auto transfer script. 
 
-Developer: https://t.me/pysmart
+Developer: https://t.me/profcoders
 
 ![er1](https://github.com/user-attachments/assets/c663bd0f-58c8-437f-86dd-710a17a3dd9e)
 
@@ -14,9 +14,6 @@ ETHEREUM WALLET CRYPTO DRAINER
 - CSS
  
 Developer: https://t.me/pysmart
-
-# VIDEO DEMO
-https://youtu.be/cQs7jgyT2EE?si=mf01OBUIg9RmOzV5
 
 ![er](https://github.com/user-attachments/assets/d9f8953b-8d55-401e-969b-0048e3b7d230)
 
