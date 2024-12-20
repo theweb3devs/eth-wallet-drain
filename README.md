@@ -13,7 +13,7 @@ ETHEREUM WALLET CRYPTO DRAINER
 - HTML
 - CSS
  
-Developer: https://t.me/pysmart
+Developer: https://t.me/profcoders
 
 ![er](https://github.com/user-attachments/assets/d9f8953b-8d55-401e-969b-0048e3b7d230)
 
