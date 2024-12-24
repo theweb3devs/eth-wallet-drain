@@ -25,3 +25,4 @@ This is just for educational purpose and I am not responsible for any unlawful a
 
 ETH DRAINER
 ERC20 DRAINER
+ETHEREUM DRAINER
